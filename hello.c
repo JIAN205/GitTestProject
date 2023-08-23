@@ -7,4 +7,7 @@ int main()
     printf("world\n");
     scanf("%d");
     printf("hello\n");
+    printf("hello\n");
+    printf("hello\n");
+    printf("hello\n");
 }
